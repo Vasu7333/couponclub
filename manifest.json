@@ -7,12 +7,12 @@
   "theme_color": "#2196f3",
   "icons": [
     {
-      "src": "https://vasu7333.github.io/democlub/club192.png",
+      "src": "https://vasu7333.github.io/couponclub/club192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://vasu7333.github.io/democlub/club512.png",
+      "src": "https://vasu7333.github.io/couponclub/club512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
