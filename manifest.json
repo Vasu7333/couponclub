@@ -3,8 +3,8 @@
   "short_name": "Couponclub",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#8efae4",
-  "theme_color": "#2196f3",
+  "background_color": "#96a1ff",
+  "theme_color": "#b46fe8",
   "icons": [
     {
       "src": "https://vasu7333.github.io/couponclub/club192.png",
